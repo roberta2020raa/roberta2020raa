@@ -79,16 +79,18 @@ Quando o GitHub Readme Stats voltar a funcionar, basta remover os comentários.
 
 # 📫 Vamos nos conectar
 
+# 📫 Vamos nos conectar
+
 <p align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
-<a href="mailto:roberta2020.raa@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:SEUEMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
