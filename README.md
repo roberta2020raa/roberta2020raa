@@ -32,8 +32,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por desenvo
 
 📫 Vamos nos conectar
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/robertadaanunciaçãoalves"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-<a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:roberta2020.raa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 ⭐ Obrigada por visitar meu perfil!
