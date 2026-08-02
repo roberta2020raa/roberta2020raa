@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 <img data-importer="snake" src="https://raw.githubusercontent.com/roberta2020raa/roberta2020raa/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
