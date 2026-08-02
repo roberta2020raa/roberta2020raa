@@ -5,7 +5,7 @@
 
 
 
-<h2 data-importer="text" align="left">Hi 👋! My name is Roberta Alves and Aspiring full-stack developer passionate about web technologies.</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Roberta Alves and Ian aspiring full-stack developer passionate about web technologies.</h2>
 
 ###
 
