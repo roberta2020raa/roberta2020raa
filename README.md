@@ -1,35 +1,32 @@
-## Hello World! 👋
+<h1 align="center">&lt; Hello, World! 👋 /&gt;</h1>
 
-
-<h1 align="center">
-  Olá, eu sou a Roberta Alves 👋
-</h1>
+<h2 align="center">Roberta Alves</h2>
 
 <h3 align="center">
-Front-End Developer em transição de carreira
+Desenvolvedora Front-End em transição de carreira
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=3000&color=7C3AED&center=true&vCenter=true&width=650&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Construindo+interfaces+modernas;Sempre+aprendendo+algo+novo."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=800&lines=Front-End+Developer;Da+opera%C3%A7%C3%A3o+ao+Front-End;Criando+interfaces+modernas;HTML+%7C+CSS+%7C+JavaScript;Sempre+aprendendo+algo+novo." />
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
+# 👩‍💻 Sobre mim
 
-✨ Atualmente estudando **Análise e Desenvolvimento de Sistemas**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-🚀 Em transição para a área de desenvolvimento Front-End.
+🚀 Em transição para a área de Desenvolvimento Front-End.
 
-💜 Apaixonada por criar interfaces modernas, responsivas e acessíveis.
+💻 Apaixonada por criar interfaces modernas, responsivas e acessíveis.
 
-📚 Aprendendo JavaScript, React e aprofundando HTML e CSS.
+📚 Atualmente estudando **HTML**, **CSS**, **JavaScript** e **React**.
 
-🎯 Em busca da primeira oportunidade como Desenvolvedora Front-End.
+🎯 Em busca da minha primeira oportunidade como Desenvolvedora Front-End.
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 <p align="center">
 
@@ -39,7 +36,21 @@ Front-End Developer em transição de carreira
 
 ---
 
-## 📊 GitHub Stats
+# 🌟 Projetos em destaque
+
+| Projeto | Descrição |
+|----------|-----------|
+| 🌐 **Portfólio** | Meu portfólio desenvolvido do zero utilizando HTML, CSS e JavaScript. |
+| 💰 **Drive Flow** | Aplicação para controle financeiro criada a partir de uma necessidade do dia a dia. |
+| 📱 **Landing Pages** | Interfaces modernas, responsivas e focadas na experiência do usuário. |
+| 🎯 **JavaScript** | Projetos voltados para lógica de programação e manipulação do DOM. |
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<!--
+Quando o GitHub Readme Stats voltar a funcionar, basta remover os comentários.
 
 <p align="center">
 
@@ -48,10 +59,15 @@ Front-End Developer em transição de carreira
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberta2020raa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+-->
+
+<p align="center">
+<i>As estatísticas serão adicionadas assim que o serviço voltar a ficar disponível.</i>
+</p>
 
 ---
 
-## 🔥 Contribuições
+# 🔥 Sequência de Contribuições
 
 <p align="center">
 
@@ -61,31 +77,29 @@ Front-End Developer em transição de carreira
 
 ---
 
-## 🌟 Projetos
+# 📫 Vamos nos conectar
 
-| Projeto | Descrição |
-|---------|-----------|
-| 🌐 Portfólio | Meu portfólio desenvolvido do zero utilizando HTML, CSS e JavaScript. |
-| 💰 Drive Flow | Aplicação para controle financeiro criada para resolver uma necessidade do dia a dia. |
-| 📱 Landing Pages | Interfaces responsivas focadas em experiência do usuário. |
-| 🎯 JavaScript | Projetos para praticar lógica e manipulação do DOM. |
+<p align="center">
 
----
-
-## 📫 Vamos nos conectar
-
-<p align="left">
-
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:roberta2020.raa@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
+---
+
+<p align="center">
+
+### 💬 "Transformando experiência em código, um projeto de cada vez."
+
+</p>
 ---
 
 <p align="center">
