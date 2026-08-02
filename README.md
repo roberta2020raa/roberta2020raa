@@ -42,8 +42,8 @@ Desenvolvedora Front-End em transição de carreira
 |----------|-----------|
 | 🌐 **Portfólio** | Meu portfólio desenvolvido do zero utilizando HTML, CSS e JavaScript. |
 | 💰 **Drive Flow** | Aplicação para controle financeiro criada a partir de uma necessidade do dia a dia. |
-| 📱 **Landing Pages** | Interfaces modernas, responsivas e focadas na experiência do usuário. |
-| 🎯 **JavaScript** | Projetos voltados para lógica de programação e manipulação do DOM. |
+| 📱 **Unidos Amém** | Projeto voluntario para ONG, com interface moderna, responsivas e focadas na experiência do usuário. |
+| 🎯 **DF Tapeçaria STANDS e Cenografia** | Projeto voltado para apresentação de empresa para mercado. |
 
 ---
 
@@ -81,15 +81,15 @@ Quando o GitHub Readme Stats voltar a funcionar, basta remover os comentários.
 
 
 
-<p align="center">
+<p align="left">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/robertadaanunciaçãoalves" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 &nbsp;
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:roberta2020.raa@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -101,9 +101,9 @@ Quando o GitHub Readme Stats voltar a funcionar, basta remover os comentários.
 
 <p align="center">
 
-# 🚗 ➜ 💻
+## 🚗 Do Volante para a Tela 💻
 
-## Do Volante para a Tela
+*"Transformando experiência em código e construindo o próximo capítulo da minha trajetória."*
 
 </p>
 
