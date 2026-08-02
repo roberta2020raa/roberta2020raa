@@ -11,8 +11,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por desenvo
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img
+  height="170"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=roberta2020raa&show_icons=true&theme=tokyonight"
+/>
 
+<img
+  height="170"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roberta2020raa&layout=compact&theme=tokyonight"
+/>
 </div>
 📊 Estatísticas
 
