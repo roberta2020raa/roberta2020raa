@@ -79,7 +79,7 @@ Quando o GitHub Readme Stats voltar a funcionar, basta remover os comentários.
 
 # 📫 Vamos nos conectar
 
-# 📫 Vamos nos conectar
+
 
 <p align="center">
 
@@ -97,15 +97,14 @@ Quando o GitHub Readme Stats voltar a funcionar, basta remover os comentários.
 
 ---
 
-<p align="center">
 
-### 💬 "Transformando experiência em código, um projeto de cada vez."
-
-</p>
----
 
 <p align="center">
 
-> *"Transformando experiência operacional em soluções digitais."*
+# 🚗 ➜ 💻
+
+## Do Volante para a Tela
 
 </p>
+
+
