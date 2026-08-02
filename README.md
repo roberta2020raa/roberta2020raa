@@ -1,46 +1,95 @@
 ## Hello World! 👋
 
-👋 Olá, eu sou a Roberta Alves
+
+<h1 align="center">
+  Olá, eu sou a Roberta Alves 👋
+</h1>
+
+<h3 align="center">
 Front-End Developer em transição de carreira
+</h3>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por desenvolvimento web. Atualmente estou construindo projetos modernos, responsivos e acessíveis utilizando HTML, CSS e JavaScript, enquanto amplio meus conhecimentos em React e outras tecnologias do ecossistema Front-End.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=3000&color=7C3AED&center=true&vCenter=true&width=650&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Construindo+interfaces+modernas;Sempre+aprendendo+algo+novo."/>
+</p>
 
-🚀 Em transição de carreira, transformando experiência operacional em soluções digitais.
+---
 
-💻 Tecnologias
+## 👩‍💻 Sobre mim
 
-<div align="left">
+✨ Atualmente estudando **Análise e Desenvolvimento de Sistemas**
 
-<img
-  height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=roberta2020raa&show_icons=true&theme=tokyonight"
-/>
+🚀 Em transição para a área de desenvolvimento Front-End.
 
-<img
-  height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roberta2020raa&layout=compact&theme=tokyonight"
-/>
-</div>
-📊 Estatísticas
+💜 Apaixonada por criar interfaces modernas, responsivas e acessíveis.
 
-<div align="center">
+📚 Aprendendo JavaScript, React e aprofundando HTML e CSS.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=roberta2020raa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+🎯 Em busca da primeira oportunidade como Desenvolvedora Front-End.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberta2020raa&layout=compact&theme=tokyonight"/>
+---
 
-</div>
+## 🚀 Tecnologias
 
-🚀 Projetos em destaque
-🌐 Portfólio Profissional
-💰 Drive Flow
-📱 Landing Pages Responsivas
-🎯 Projetos para prática de JavaScript
+<p align="center">
 
-📫 Vamos nos conectar
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark"/>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/robertadaanunciaçãoalves"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+</p>
 
-<a href="mailto:roberta2020.raa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+---
 
-⭐ Obrigada por visitar meu perfil!
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=roberta2020raa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberta2020raa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=roberta2020raa&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌟 Projetos
+
+| Projeto | Descrição |
+|---------|-----------|
+| 🌐 Portfólio | Meu portfólio desenvolvido do zero utilizando HTML, CSS e JavaScript. |
+| 💰 Drive Flow | Aplicação para controle financeiro criada para resolver uma necessidade do dia a dia. |
+| 📱 Landing Pages | Interfaces responsivas focadas em experiência do usuário. |
+| 🎯 JavaScript | Projetos para praticar lógica e manipulação do DOM. |
+
+---
+
+## 📫 Vamos nos conectar
+
+<p align="left">
+
+<a href="SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Transformando experiência operacional em soluções digitais."*
+
+</p>
