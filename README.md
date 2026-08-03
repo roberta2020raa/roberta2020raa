@@ -41,7 +41,7 @@ Desenvolvedora Front-End em transição de carreira
 | Projeto | Descrição |
 |----------|-----------|
 | 🌐 **Portfólio** | Meu portfólio desenvolvido do zero utilizando HTML, CSS e JavaScript. |
-| 💰 **Drive Flow** | Aplicação para controle financeiro criada a partir de uma necessidade do dia a dia. |
+| 🚗 DriveFlow® | Aplicação para controle financeiro criada a partir de uma necessidade do dia a dia. |
 | 📱 **Unidos Amém** | Projeto voluntario para ONG, com interface moderna, responsivas e focadas na experiência do usuário. |
 | 🎯 **DF Tapeçaria STANDS e Cenografia** | Projeto voltado para apresentação de empresa para mercado. |
 
@@ -49,8 +49,7 @@ Desenvolvedora Front-End em transição de carreira
 
 # 📊 Estatísticas do GitHub
 
-<!--
-Quando o GitHub Readme Stats voltar a funcionar, basta remover os comentários.
+
 
 <p align="center">
 
@@ -59,12 +58,13 @@ Quando o GitHub Readme Stats voltar a funcionar, basta remover os comentários.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberta2020raa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
--->
 
+
+<!--
 <p align="center">
 <i>As estatísticas serão adicionadas assim que o serviço voltar a ficar disponível.</i>
 </p>
-
+-->
 ---
 
 # 🔥 Sequência de Contribuições
