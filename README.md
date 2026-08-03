@@ -7,7 +7,7 @@ Desenvolvedora Front-End em transição de carreira
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=800&lines=Front-End+Developer;Da+opera%C3%A7%C3%A3o+ao+Front-End;Criando+interfaces+modernas;HTML+%7C+CSS+%7C+JavaScript;Sempre+aprendendo+algo+novo." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=800&lines=Front-End+Developer;Da+opera%C3%A7%C3%A3o+ao+Front-End;Criando+interfaces+modernas;HTML+%7C+CSS+%7C+JavaScript;Do+Volante+para+a+tela." />
 </p>
 
 ---
