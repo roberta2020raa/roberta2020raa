@@ -46,27 +46,6 @@ Desenvolvedora Front-End em transição de carreira
 | 🎯 **DF Tapeçaria STANDS e Cenografia** | Projeto voltado para apresentação de empresa para mercado. |
 
 ---
-
-# 📊 Estatísticas do GitHub
-
-
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=roberta2020raa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberta2020raa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<!--
-<p align="center">
-<i>As estatísticas serão adicionadas assim que o serviço voltar a ficar disponível.</i>
-</p>
--->
----
-
 # 🔥 Sequência de Contribuições
 
 <p align="center">
