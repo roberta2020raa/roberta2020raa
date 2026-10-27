@@ -3,7 +3,7 @@
 <h2 align="center">Roberta Alves</h2>
 
 <h3 align="center">
-Desenvolvedora Front-End em transição de carreira
+Front-End Developer | Full Stack em formação
 </h3>
 
 <p align="center">
@@ -12,29 +12,38 @@ Desenvolvedora Front-End em transição de carreira
 
 ---
 
-# 👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade ENIAC.
 
-🚀 Em transição para a área de Desenvolvimento Front-End.
+💻 Desenvolvedora **Front-End em formação**, ampliando meus conhecimentos em desenvolvimento Full Stack.
 
-💻 Apaixonada por criar interfaces modernas, responsivas e acessíveis.
+🚀 Desenvolvo projetos práticos utilizando **HTML, CSS, JavaScript, Node.js e APIs**, aplicando conceitos de responsividade, validação de dados e integração entre front-end e back-end.
 
-📚 Atualmente estudando **HTML**, **CSS**, **JavaScript** e **React**.
+🌎 Inglês avançado e experiência profissional em ambientes multiculturais, com foco em comunicação, resolução de problemas e trabalho em equipe.
 
-🎯 Em busca da minha primeira oportunidade como Desenvolvedora Front-End.
+📚 Atualmente aprofundando meus estudos em **React, bancos de dados e computação em nuvem**.
 
+🎯 Em busca de oportunidades de **estágio em desenvolvimento de software**, com foco em Front-End ou Full Stack.
+
+🚗 **Do Volante para a Tela:** transformando minha experiência profissional em uma nova trajetória na tecnologia.
 ---
 
-# 🚀 Tecnologias
+
+## 🚀 Tecnologias e Ferramentas
+
+### 💻 Tecnologias utilizadas
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,vscode&theme=dark" alt="Tecnologias utilizadas" />
 </p>
 
----
+### 📚 Em aprendizado
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,sqlite,postgres,aws,gcp&theme=dark" alt="Tecnologias em aprendizado" />
+</p>
+
 
 # 🌟 Projetos em destaque
 
