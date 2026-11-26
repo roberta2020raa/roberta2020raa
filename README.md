@@ -1,14 +1,6 @@
-<h1 align="center">&lt; Hello, World! 👋 /&gt;</h1>
+![Banner animado de Roberta Alves](assets/banner-roberta-alves.gif)
 
-<h2 align="center">Roberta Alves</h2>
-
-<h3 align="center">
-Front-End Developer | Full Stack em formação
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=800&lines=Front-End+Developer;Sempre+aprendendo+algo+novo;Criando+interfaces+modernas;HTML+%7C+CSS+%7C+JavaScript;Do+Volante+para+a+tela." />
-</p>
+<h3 align="center">Desenvolvedora Front-End em formação</h3>
 
 ---
 
