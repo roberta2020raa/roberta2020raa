@@ -1,6 +1,8 @@
 ![Banner animado de Roberta Alves](assets/banner-roberta-alves.gif)
 
-<h3 align="center">Desenvolvedora Front-End em formação</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=1200&amp;color=D0A0F5&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Desenvolvedora+Front-End+em+forma%C3%A7%C3%A3o;Transi%C3%A7%C3%A3o+de+carreira+para+desenvolvimento" alt="Desenvolvedora Front-End em formação. Transição de carreira para desenvolvimento.">
+</p>
 
 ---
 
